@@ -32,6 +32,10 @@ a {
     text-decoration: none;
 }
 
+.header-body {
+    display: flex;
+}
+
 .header-image {
     height: auto;
     width: 400px;

@@ -32,7 +32,7 @@ a {
     text-decoration: none;
 }
 
-img {
+.header-image {
     height: auto;
     width: 400px;
 }

@@ -31,3 +31,8 @@ ul {
 a {
     text-decoration: none;
 }
+
+img {
+    height: auto;
+    width: 400px;
+}

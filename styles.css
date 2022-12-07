@@ -22,6 +22,10 @@ header {
     font-size: 48px;
 }
 
+.hero-message, .header-button {
+    font-size: 18px;
+}
+
 .left {
     display: flex;
     flex-direction: column;

@@ -80,6 +80,11 @@ a {
     height: 480px;
 }
 
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
 .best-sellers a img {
     height: auto;
     width: 150px;

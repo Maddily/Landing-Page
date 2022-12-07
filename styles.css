@@ -33,6 +33,10 @@ header {
     color: #e5e7eb
 }
 
+.header-button {
+    background-color: #3882f6;
+}
+
 .left {
     display: flex;
     flex-direction: column;

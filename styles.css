@@ -94,3 +94,7 @@ h2 {
     height: auto;
     width: 150px;
 }
+
+figure {
+    text-align: center;
+}

@@ -24,11 +24,11 @@ header {
     font-size: 48px;
 }
 
-.logo, .hero-title {
+.logo, .hero-title, .header-button {
     color: #f9faf8;
 }
 
-.hero-message, .header-button {
+.hero-message {
     font-size: 18px;
     color: #e5e7eb
 }

@@ -76,6 +76,10 @@ a {
     width: 400px;
 }
 
+.middle {
+    height: 480px;
+}
+
 .best-sellers a img {
     height: auto;
     width: 150px;

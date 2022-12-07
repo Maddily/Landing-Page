@@ -102,3 +102,7 @@ h2 {
 figure {
     text-align: center;
 }
+
+figcaption {
+    color: #302d38;
+}

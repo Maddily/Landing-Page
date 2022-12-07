@@ -87,6 +87,7 @@ h2 {
 
 .best-sellers {
     display: flex;
+    justify-content: center;
 }
 
 .best-seller {

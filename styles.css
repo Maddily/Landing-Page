@@ -8,6 +8,7 @@ body {
 
 header {
     padding: 1em;
+    display: flex;
 }
 
 .logo {
@@ -34,6 +35,7 @@ a {
 
 .right {
     display: flex;
+    flex-direction: column;
 }
 
 .header-image {

@@ -45,6 +45,7 @@ header {
 .left {
     display: flex;
     flex-direction: column;
+    gap: 120px;
 }
 
 ul {

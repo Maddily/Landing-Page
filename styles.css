@@ -75,3 +75,8 @@ a {
     height: auto;
     width: 400px;
 }
+
+.best-sellers a img {
+    height: auto;
+    width: 150px;
+}

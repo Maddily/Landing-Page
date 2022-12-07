@@ -89,7 +89,7 @@ h2 {
     display: flex;
 }
 
-.best-sellers a img {
+.best-seller {
     height: auto;
     width: 150px;
 }

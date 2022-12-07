@@ -33,7 +33,7 @@ header {
     font-size: 18px;
 }
 
-.hero-message, a {
+.hero-message, .nav-link {
     color: #e5e7eb;
 }
 

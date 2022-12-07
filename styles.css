@@ -23,6 +23,7 @@ header {
 .hero-title {
     font-size: 48px;
     font-weight: bolder;
+    margin: 0;
 }
 
 .logo, .hero-title, .header-button {

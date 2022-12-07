@@ -42,6 +42,7 @@ header {
     background-color: #3882f6;
     border: none;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 .left {

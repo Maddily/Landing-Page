@@ -43,6 +43,7 @@ header {
     border: none;
     border-radius: 5px;
     font-weight: bold;
+    padding: 6px 20px;
 }
 
 .left {

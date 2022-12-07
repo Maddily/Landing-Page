@@ -54,6 +54,7 @@ ul {
     padding: 0;
     margin: 0;
     gap: 2em;
+    margin-left: auto;
 }
 
 a {

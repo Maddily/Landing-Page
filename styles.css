@@ -18,6 +18,10 @@ header {
     font-weight: bold;
 }
 
+.hero-title {
+    font-size: 48px;
+}
+
 .left {
     display: flex;
     flex-direction: column;

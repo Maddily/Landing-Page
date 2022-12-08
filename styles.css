@@ -116,6 +116,8 @@ figcaption, blockquote {
     background-color: #e5e7eb;
     height: 400px;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .quote-body {

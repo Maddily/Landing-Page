@@ -134,4 +134,5 @@ blockquote {
 
 .quoted {
     font-weight: bold;
+    align-self: flex-end;
 }

@@ -163,6 +163,10 @@ blockquote {
     justify-content: space-around;
 }
 
+.call-to-action-text {
+    display: flex;
+}
+
 .call-to-action-button {
     border: 2px solid #f9faf8;
 }

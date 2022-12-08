@@ -176,3 +176,7 @@ blockquote {
     border: 2px solid #f9faf8;
     height: fit-content;
 }
+
+footer {
+    height: 100px;
+}

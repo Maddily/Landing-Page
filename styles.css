@@ -107,3 +107,7 @@ figure {
 figcaption {
     color: #302d38;
 }
+
+blockquote {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}

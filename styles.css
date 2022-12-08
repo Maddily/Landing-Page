@@ -48,11 +48,15 @@ header {
     padding: 6px 20px;
 }
 
+.header-button, .call-to-action {
+    border-radius: 5px;
+}
+
 .call-to-action, .header-button, .call-to-action-button {
     background-color: #3882f6;
 }
 
-.header-button, .call-to-action, .call-to-action-button {
+.header-button, .call-to-action-button {
     border-radius: 5px;
     font-weight: bold;
     padding: 6px 20px;

@@ -136,3 +136,7 @@ blockquote {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.call-to-action-area {
+    height: 300px;
+}

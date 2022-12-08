@@ -123,6 +123,7 @@ figcaption, blockquote {
 .quote-body {
     width: 60%;
     display: flex;
+    flex-direction: column;
 }
 
 blockquote {

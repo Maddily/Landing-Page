@@ -43,11 +43,14 @@ header {
 }
 
 .header-button {
-    background-color: #3882f6;
     border: none;
     border-radius: 5px;
     font-weight: bold;
     padding: 6px 20px;
+}
+
+.call-to-action, .header-button {
+    background-color: #3882f6;
 }
 
 .left {
@@ -143,3 +146,4 @@ blockquote {
     justify-content: center;
     align-items: center;
 }
+

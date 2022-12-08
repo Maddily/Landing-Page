@@ -156,6 +156,7 @@ blockquote {
 .call-to-action {
     width: 80%;
     padding: 50px 0;
+    display: flex;
 }
 
 .call-to-action-button {

@@ -118,3 +118,7 @@ blockquote {
     font-style: italic;
     font-size: 36px;
 }
+
+.quoted {
+    font-weight: bold;
+}

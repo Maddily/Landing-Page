@@ -140,4 +140,6 @@ blockquote {
 .call-to-action-area {
     height: 300px;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }

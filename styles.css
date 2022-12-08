@@ -44,9 +44,12 @@ header {
 
 .header-button {
     border: none;
-    border-radius: 5px;
     font-weight: bold;
     padding: 6px 20px;
+}
+
+.header-button, .call-to-action {
+    border-radius: 5px;
 }
 
 .call-to-action, .header-button, .call-to-action-button {

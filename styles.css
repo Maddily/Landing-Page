@@ -108,6 +108,10 @@ figcaption {
     color: #302d38;
 }
 
+.quote {
+    background-color: #e5e7eb;
+}
+
 blockquote {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }

@@ -38,7 +38,7 @@ header {
     font-size: 18px;
 }
 
-.hero-message, .nav-link {
+.hero-message, .nav-link, .call-to-action-message {
     color: #e5e7eb;
 }
 

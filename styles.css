@@ -139,4 +139,5 @@ blockquote {
 
 .call-to-action-area {
     height: 300px;
+    display: flex;
 }

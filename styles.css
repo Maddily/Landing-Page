@@ -166,6 +166,7 @@ blockquote {
 .call-to-action-text {
     display: flex;
     flex-direction: column;
+    gap: 8px;
 }
 
 .call-to-action-button {

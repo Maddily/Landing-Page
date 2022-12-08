@@ -7,7 +7,7 @@ body {
     margin: 0;
 }
 
-body, .hero-title, ul, blockquote, .quoted, h3 {
+body, .hero-title, ul, blockquote, .quoted, h3, .call-to-action-message {
     margin: 0;
 }
 

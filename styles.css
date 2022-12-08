@@ -30,7 +30,7 @@ header {
     margin: 0;
 }
 
-.logo, .hero-title, .header-button, .call-to-action-button {
+.logo, .hero-title, .header-button, .call-to-action-button, h3 {
     color: #f9faf8;
 }
 

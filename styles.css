@@ -122,6 +122,7 @@ figcaption, blockquote {
 
 .quote-body {
     width: 60%;
+    display: flex;
 }
 
 blockquote {

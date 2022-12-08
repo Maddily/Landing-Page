@@ -104,7 +104,7 @@ figure {
     text-align: center;
 }
 
-figcaption {
+figcaption, blockquote {
     color: #302d38;
 }
 

@@ -16,6 +16,9 @@ header {
     height: 500px;
     display: flex;
     justify-content: space-around;
+}
+
+header, footer {
     background-color: #302d38;
 }
 

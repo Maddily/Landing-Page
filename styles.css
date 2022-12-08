@@ -41,7 +41,7 @@ header, footer {
     font-size: 18px;
 }
 
-.hero-message, .nav-link, .call-to-action-message {
+.hero-message, .nav-link, .call-to-action-message, .copyright {
     color: #e5e7eb;
 }
 

@@ -1,6 +1,6 @@
 # Landing Page
 
-This is the landing page of a beauty shop website.
+This is the landing page of a website.
 
 
 ## Languages

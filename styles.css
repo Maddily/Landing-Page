@@ -15,7 +15,7 @@ header, .left, ul, .right, h2, .best-sellers, .quote, .quote-body, .call-to-acti
 }
 
 header {
-    padding: 1em;
+    padding: 1rem 3rem;
     height: 500px;
 }
 
@@ -85,6 +85,7 @@ ul {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 .right {
@@ -92,11 +93,12 @@ a {
 }
 
 .header-image {
-    width: 400px;
-}
-
-.header-image, .best-seller {
-    height: auto;
+    width: 600px;
+    height: 300px;
+    background-color: #6d747d;
+    color: white;
+    text-align: center;
+    line-height: 300px;
 }
 
 .middle {
@@ -115,17 +117,21 @@ h2, blockquote {
 
 h2, .best-sellers, .quote, .call-to-action-area, footer {
     justify-content: center;
+    gap: 3rem;
 }
 
 .best-seller {
     width: 150px;
+    height: 150px;
+    border: 2px solid #3882f6;
+    border-radius: 10px;
 }
 
-figure {
+.middle-images {
     text-align: center;
 }
 
-h2, figcaption, blockquote, .quoted {
+h2, blockquote, .quoted {
     color: #302d38;
 }
 

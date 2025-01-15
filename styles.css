@@ -15,8 +15,7 @@ header, .left, ul, .right, h2, .best-sellers, .quote, .quote-body, .call-to-acti
 }
 
 header {
-    padding: 1rem 3rem;
-    height: 500px;
+    padding: 1rem 3rem 2rem;
 }
 
 header, .call-to-action {
